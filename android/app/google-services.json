@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15654861042",
+    "project_id": "vetapp-1777a",
+    "storage_bucket": "vetapp-1777a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15654861042:android:06daa214fff1ca8185386b",
+        "android_client_info": {
+          "package_name": "com.salma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHVJ-I2BTIpZ5qsGsJT9_Q-RzfoHWQc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
